@@ -13,6 +13,7 @@
     <module>jobs/process/job1_0.1</module>
     <module>jobs/process/job01_0.1</module>
     <module>jobs/process/job02_0.1</module>
+    <module>jobs/process/job03_0.1</module>
   </modules>
   <properties>
     <talend.project.name>LABS</talend.project.name>
